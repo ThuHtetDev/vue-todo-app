@@ -1,6 +1,6 @@
-# webcom-todo
+# vue-todo-app
 
-> A Vue.js project
+> A Vue.js project with Laravel API
 
 ## Build Setup
 
